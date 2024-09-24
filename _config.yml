@@ -1,16 +1,15 @@
-title: Nighthawk Pages 
+title: Nighthawk Pages
 description: "Class of 2025"
-owner_name: John Mortensen
-github_username: nighthawkcoders
-github_repo: "student_2025" 
-baseurl: "/student_2025"
+owner_name: Finn Carpenter
+github_username: F1nnC
+github_repo: "finn_2025" 
+baseurl: "/finn_2025"
 future: true
 remote_theme: jekyll/minima
 minima:
   skin: dark
   social_links:
-    - { platform: github, user_url: "https://github.com/nighthawkcoders"}
-    - { platform: x, user_url: "https://x.com/NighthawkCoding/" }
+    - { platform: github, user_url: "https://github.com/F1nnC"}
     - { platform: youtube, user_url: "https://www.youtube.com/@nighthawkcodingsociety2868" } 
 # remote_theme: pages-themes/midnight@v0.2.0
 # remote_theme: pages-themes/cayman@v0.2.0
